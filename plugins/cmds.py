@@ -244,7 +244,7 @@ async def help_me(bot, message):
             reply_markup=reply_markup
             ) 
             return
-    file_id = "CAADBQADgAYAAqwG4FecIIpMGTLeWgI"
+    file_id = "CAADBQAD7AQAAgQ66VdlsI69XmFUkwI"
     await bot.send_sticker(message.chat.id, file_id)
     text = START_STRING
     reply_markup = START_BUTTON 
