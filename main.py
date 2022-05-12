@@ -9,7 +9,7 @@ PmBot = Client(
     "Pm Bot",
     api_id=8838171,
     api_hash="0587408d4f7d9301f5295840b0f3b494",
-    bot_token="5314301510:AAHgI29NMpGR0fN5E-EGYSdrVcYoOO9ZKpE",
+    bot_token="5182594480:AAHDgiv3wRIP9FaePW320_veW0hBBKMzELQ",
     plugins=dict(root="plugins"),
 )
 
